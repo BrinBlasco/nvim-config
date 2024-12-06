@@ -1,3 +1,5 @@
 # BrinBlasco's Neovim Config
 
-Prerequisite: install [ripgrep](https://github.com/BurntSushi/ripgrep).
+Prerequisites:
+ - [ripgrep](https://github.com/BurntSushi/ripgrep).
+ - [zig](https://ziglang.org/learn/getting-started/) (for the c compiler) 
